@@ -15,9 +15,9 @@ source install/setup.bash
 
 ## Usage
 
-ros2 run direction_detector direction_detector
+```ros2 run direction_detector direction_detector```
 
-ros2 topic echo /direction
+```ros2 topic echo /direction```
 
 ## How It Works
 
