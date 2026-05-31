@@ -1,5 +1,5 @@
 # direction_detector
-A reusable ROS 2 node that converts robot orientation from nav_msgs/msg/Odometry into human-readable cardinal directions (North, South, East, West). Compatible with any robot publishing standard ROS odometry messages.
+A reusable ROS 2 node that converts robot orientation from nav_msgs/msg/Odometry into human-readable cardinal directions (North, South, East, West). Compatible with any robot publishing standard ROS odometry messages. This is the first ROS2 node I've written, call it a test run, hoping to move onto more complicated projects soon. 
 
 Graph with turtlebot3:
 <img width="841" height="479" alt="image" src="https://github.com/user-attachments/assets/65009cf5-ce6a-48d1-a0e9-1eaa3a4cd260" />
